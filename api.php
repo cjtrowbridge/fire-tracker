@@ -13,4 +13,4 @@ if(
 }
 
 header('Content-Type: application/json');
-echo $CacheFilename;
+echo $Data;
